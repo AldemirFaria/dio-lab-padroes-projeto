@@ -1,0 +1,30 @@
+Vìdeos: Explorando Padrões de Projetos na Prática com Java
+
+01 - Apresentação Inicial
+https://www.youtube.com/watch?v=g2bj8xwrWCE
+
+02 - Padrões de Projeto
+https://www.youtube.com/watch?v=ZaA7szq1Bo8
+
+03 - Praticanto com Java Puro: Singleton
+https://www.youtube.com/watch?v=XdwALBLG-7A
+
+04 - Praticanto com Java Puro:  Strategy
+https://www.youtube.com/watch?v=pG5Wkm0N3fQ
+
+05 - Praticanto com Java Puro:  Facade
+https://www.youtube.com/watch?v=fuvTVwGNUOk
+
+06 - Praticanto com Spring:  Introdução
+https://www.youtube.com/watch?v=-3_vMQJra4c
+
+07 - Praticanto com Spring: Conhecendo o Projeto Base
+https://www.youtube.com/watch?v=JIN0HdQihuI
+
+08 - Praticando com Spring: Padrões de Projeto em uma API REST
+https://www.youtube.com/watch?v=YgNJ4kfjQyk
+
+09 - Desafio de Projeto
+https://www.youtube.com/watch?v=NoswushQung
+
+
